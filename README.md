@@ -1,2 +1,2 @@
-# STARGAZER_game
+# STARGAZER
 Game launcher
