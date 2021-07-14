@@ -1,2 +1,2 @@
 # STARGAZER
-Game launcher
+Windows game launcher
